@@ -2,28 +2,16 @@
 </script>
 <template>
 
-   <UCard>
-    <template #header>
+  <UCard>
       <Placeholder class="h-8" />
-      <UAvatar
-        src="https://github.com/benjamincanac.png"
-        loading="lazy"
-        :chip="{
-          inset: true
-        }"
-      />
-      <UBlogPost
-    title="Introducing Nuxt Icon v1"
-    description="Discover Nuxt Icon v1 - a modern, versatile, and customizable icon solution for your Nuxt projects."
-    :badge="{
-      label: 'Release',
-      color: 'primary',
-      variant: 'solid'
-    }"
-    avatar="https://github.com/benjamincanac.png"
-  />
-    </template>
+      <UAvatar src="https://github.com/benjamincanac.png" loading="lazy" :chip="{
+        inset: true
+      }" />
+      <UPageCard title="Tailwind CSS"
+        description="Nuxt UI integrates with latest Tailwind CSS, bringing significant improvements."
+        icon="i-simple-icons-tailwindcss" to="https://tailwindcss.com/blog/tailwindcss-v4" target="_blank"
+        variant="soft" />
 
-    <Placeholder class="h-32" />
+      <Placeholder class="h-32" />
   </UCard>
 </template>
