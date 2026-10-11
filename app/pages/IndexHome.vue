@@ -17,7 +17,7 @@
       <UPageCTA title="Recent Projects I have developed" />
       <div class="justify-center flex align-center align-items-center">
         <UBlogPost
-    title="Introducing Nuxt Icon v1"
+    title=""
     description="Discover Nuxt Icon v1 - a modern, versatile, and customizable icon solution for your Nuxt projects."
     image="https://nuxt.com/assets/blog/nuxt-icon/cover.png"
     date="2024-11-25"
