@@ -17,20 +17,21 @@
       <UPageCTA title="Recent Projects I have developed" />
       <div class="justify-center flex align-center align-items-center">
         <UBlogPost
-    title=""
-    description="Discover Nuxt Icon v1 - a modern, versatile, and customizable icon solution for your Nuxt projects."
-    image="https://nuxt.com/assets/blog/nuxt-icon/cover.png"
-    date="2024-11-25"
+    title="Employee Vacation Management System"
+    description="An enterprise web application designed to streamline and automate employee vacation management."
+    img="../assets/images/employee-vacation-management-system.jpeg"
+    date="2026-10-09"
   /><UBlogPost
-    title="Introducing Nuxt Icon v1"
-    description="Discover Nuxt Icon v1 - a modern, versatile, and customizable icon solution for your Nuxt projects."
-    image="https://nuxt.com/assets/blog/nuxt-icon/cover.png"
-    date="2024-11-25"
+    title="Real-Time Production Monitoring System"
+    description="A web-based production monitoring application developed to provide real-time visibility into manufacturing operations."
+    image="../../assets/images/real-time-production-monitoring-system.png"
+    date="2025-08-06"
   /><UBlogPost
-    title="Introducing Nuxt Icon v1"
-    description="Discover Nuxt Icon v1 - a modern, versatile, and customizable icon solution for your Nuxt projects."
-    image="https://nuxt.com/assets/blog/nuxt-icon/cover.png"
-    date="2024-11-25"
+    title="Digital Invoice Management System — Progressive Web Application (PWA)"
+    description="A progressive web application designed to digitize and streamline invoice management processes for a bakery business."
+    image="../../assets/images/digital-invoice-management-system.png"
+    date="2025-04-25"
+    
   />
 
       </div>
