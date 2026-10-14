@@ -16,23 +16,21 @@
     <div class="justify-center flex align-center align-items-center">
       <UBlogPost title="Employee Vacation Management System"
         description="An enterprise web application designed to streamline and automate employee vacation management."
-        :image="{ src: 'employee-vacation-management-system.jpeg', loading: 'lazy' }" date="2026-10-09" />
+        :image="{ src: 'vacation.png', loading: 'lazy' }" date="2026-10-09" class="w-1/3" :ui="{ image: 'object-contain'}"/>
       <UBlogPost title="Real-Time Production Monitoring System"
         description="A web-based production monitoring application developed to provide real-time visibility into manufacturing operations."
-        :image="{ src: 'employee-vacation-management-system.jpeg', loading: 'lazy' }" date="2025-08-06" />
+        :image="{ src: 'employee-vacation-management-system.jpeg', loading: 'lazy' }" date="2025-08-06" class="w-1/3" />
       <UBlogPost title="Digital Invoice Management System — Progressive Web Application (PWA)"
         description="A progressive web application designed to digitize and streamline invoice management processes for a bakery business."
-        :image="{ src: 'employee-vacation-management-system.jpeg', loading: 'lazy' }" date="2025-04-25" />
-
+        :image="{ src: 'facturas.png', loading: 'lazy' }" date="2025-04-25" class="w-1/3" />
     </div>
 
     <UPageCard
-    title="Tailwind CSS"
-    description="Nuxt UI integrates with latest Tailwind CSS, bringing significant improvements.
-    uashdkjahdjh
-    asljkdhaksjdh
-    asdas"
-    icon="i-simple-icons-tailwindcss"
+    title="About me"
+    description="I am a passionate software developer with experience in creating web applications using any technology stack. 
+    I enjoy learning new technologies and applying them to solve real-world problems. My goal is to continuously improve my 
+    skills and contribute to the development of innovative software solutions."
+    icon="i-lucide-cpu"
     orientation="horizontal"
     spotlight
     spotlight-color="secondary"
