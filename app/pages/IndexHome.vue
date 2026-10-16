@@ -38,10 +38,43 @@
 
     <p class="text-2xl font-bold text-center">Skills</p>
     <div class="justify-center flex align-center align-items-center">
-
       <div class="grid grid-cols-4 gap-4 pt-8">
-        <div>01</div>
-        <div>09</div>
+        <div>
+          <p>
+            Vue
+          </p>
+          <img src="../assets/vueLogo.svg" />
+        </div>
+        <div>
+          <p>
+            Nuxt
+          </p>
+          <img src="../assets/nuxtLogo.svg" />
+        </div>
+        <div>
+          <p>
+            Terminal
+          </p>
+          <img src="../assets/terminalLogo.svg" />
+        </div>
+        <div>
+          <p>
+            React
+          </p>
+          <img src="../assets/reactLogo.svg" />
+        </div>
+        <div>
+          <p>
+            MSSQL
+          </p>
+          <img src="../assets/microsoft-sql-server-logo.svg" />
+        </div>
+        <div>
+          <p>
+            MySQL
+          </p>
+          <img src="../assets/mysqlLogo.svg" />
+        </div>
       </div>
     </div>
   </UCard>
