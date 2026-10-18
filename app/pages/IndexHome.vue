@@ -38,7 +38,7 @@
 
     <p class="text-2xl font-bold text-center">Skills</p>
     <div class="justify-center flex align-center align-items-center">
-      <div class="grid grid-cols-4 gap-4 pt-8">
+      <div class="grid grid-cols-4 gap-4 pt-8 w-md h-md">
         <div>
           <p>
             Vue
@@ -79,37 +79,37 @@
           <p>
             Php
           </p>
-          <img src="../assets/php.svg" />
+          <img src="../assets/php.svg"  class="w-full"/>
         </div>
         <div>
           <p>
             Node.js
           </p>
-          <img src="../assets/nodejs.svg" />
+          <img src="../assets/nodejs.svg" class="w-full"/>
         </div>
         <div>
           <p>
             Quasar
           </p>
-          <img src="../assets/quasar.svg" />
+          <img src="../assets/quasar.svg" class="w-full"/>
         </div>
         <div>
           <p>
             Active Directory
           </p>
-          <img src="../assets/directory.svg" />
+          <img src="../assets/directory.svg" class="w-full"/>
         </div>
         <div>
           <p>
             IIS Server
           </p>
-          <img src="../assets/iis.svg" />
+          <img src="../assets/iis.svg" class="w-full"/>
         </div>
         <div>
           <p>
             OpenClaw
           </p>
-          <img src="../assets/openclaw.svg" />
+          <img src="../assets/openclaw.svg" class="w-full"/>
         </div>
       </div>
     </div>
