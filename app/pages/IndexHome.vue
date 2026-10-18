@@ -55,7 +55,7 @@
           <p>
             Terminal
           </p>
-          <img src="../assets/terminalLogo.svg" />
+          <img src="../assets/terminalShell.svg" />
         </div>
         <div>
           <p>
@@ -74,6 +74,42 @@
             MySQL
           </p>
           <img src="../assets/mysqlLogo.svg" />
+        </div>
+        <div>
+          <p>
+            Php
+          </p>
+          <img src="../assets/php.svg" />
+        </div>
+        <div>
+          <p>
+            Node.js
+          </p>
+          <img src="../assets/nodejs.svg" />
+        </div>
+        <div>
+          <p>
+            Quasar
+          </p>
+          <img src="../assets/quasar.svg" />
+        </div>
+        <div>
+          <p>
+            Active Directory
+          </p>
+          <img src="../assets/directory.svg" />
+        </div>
+        <div>
+          <p>
+            IIS Server
+          </p>
+          <img src="../assets/iis.svg" />
+        </div>
+        <div>
+          <p>
+            OpenClaw
+          </p>
+          <img src="../assets/openclaw.svg" />
         </div>
       </div>
     </div>
