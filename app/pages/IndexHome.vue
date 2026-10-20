@@ -18,7 +18,7 @@
     <div class="justify-center flex align-center align-items-center">
       <UBlogPost title="Employee Vacation Management System"
         description="An enterprise web application designed to streamline and automate employee vacation management."
-        :image="{ src: 'vacation.png', loading: 'lazy' }" date="2026-10-09" class="w-1/3"
+        :image="{ src: 'vacation.png', loading: 'lazy' }" date="2026-10-09" class="w-1/3 spotlight spotlight-color='secondary'"
         :ui="{ image: 'object-contain' }" />
       <UBlogPost title="Real-Time Production Monitoring System"
         description="A web-based production monitoring application developed to provide real-time visibility into manufacturing operations."
@@ -36,77 +36,77 @@
     </UPageCard>
     <USeparator class="my-4" />
 
-    <p class="text-2xl font-bold text-center">Skills</p>
+    <p class="text-4xl font-bold text-center pb-8">Skills</p>
     <div class="justify-center flex align-center align-items-center">
-      <div class="grid grid-cols-4 gap-4 pt-8 w-md h-md">
-        <div>
-          <p>
+      <div class="grid grid-cols-4 gap-4 w-4xl h-md">
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+        <p class="text-center font-bold">
             Vue
           </p>
           <img src="../assets/vueLogo.svg" />
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             Nuxt
           </p>
           <img src="../assets/nuxtLogo.svg" />
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             Terminal
           </p>
           <img src="../assets/terminalShell.svg" />
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             React
           </p>
           <img src="../assets/reactLogo.svg" />
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             MSSQL
           </p>
           <img src="../assets/microsoft-sql-server-logo.svg" />
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             MySQL
           </p>
           <img src="../assets/mysqlLogo.svg" />
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             Php
           </p>
           <img src="../assets/php.svg"  class="w-full"/>
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             Node.js
           </p>
           <img src="../assets/nodejs.svg" class="w-full"/>
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             Quasar
           </p>
           <img src="../assets/quasar.svg" class="w-full"/>
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             Active Directory
           </p>
           <img src="../assets/directory.svg" class="w-full"/>
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             IIS Server
           </p>
           <img src="../assets/iis.svg" class="w-full"/>
         </div>
-        <div>
-          <p>
+        <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
+          <p class="text-center font-bold">
             OpenClaw
           </p>
           <img src="../assets/openclaw.svg" class="w-full"/>
