@@ -77,7 +77,7 @@
         </div>
         <div class="bg-[linear-gradient(to_right,_#FBED96,_#ABECD6)] rounded-md">
           <p class="text-center font-bold">
-            Php
+            PHP
           </p>
           <img src="../assets/php.svg"  class="w-full"/>
         </div>
@@ -114,4 +114,5 @@
       </div>
     </div>
   </UCard>
+  <FooterMain />
 </template>
