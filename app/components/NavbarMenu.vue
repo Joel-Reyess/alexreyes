@@ -9,9 +9,9 @@ const items= computed<NavigationMenuItem[]>(() => [
     active: route.path.startsWith('/index'),
   },
   {
-    label: 'About',
-    href: '/about',
-    active: route.path.startsWith('/about'),
+    label: 'Projects',
+    href: '/projects',
+    active: route.path.startsWith('/projects'),
   },
   {
     label: 'Contact',
