@@ -10,7 +10,7 @@ export default {
         {
             name: 'projects',
             path: '/projects',
-            component: () => import('./pages/projectsMain.vue')
+            component: () => import('./pages/ProjectsMain.vue')
         },
         {
             name: 'contact',
