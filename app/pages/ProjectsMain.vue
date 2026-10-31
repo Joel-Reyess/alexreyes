@@ -1,4 +1,7 @@
 <template>
+  <USeparator class="my-4" />
+    <p class="text-4xl font-bold text-center">Some of my projects</p>
+    <USeparator class="my-4" />
   <UBlogPost
     title="Introducing Nuxt Icon v1"
     description="Discover Nuxt Icon v1 - a modern, versatile, and customizable icon solution for your Nuxt projects."
